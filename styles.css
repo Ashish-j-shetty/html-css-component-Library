@@ -23,6 +23,7 @@ hr {
 .container-center {
   max-width: 600px;
   margin: auto;
+  padding: 1rem;
 }
 
 /**links**/
